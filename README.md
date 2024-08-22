@@ -23,7 +23,7 @@ def test_a():
 def test_b():
     pass
 ```
-使用以下命令指定归属人运行，支持指定多个归属人
+使用以下命令指定用例状态运行，支持指定多个用例状态
 ```shell
 pytest test_pytest_status.py --status=ready 
 ```
