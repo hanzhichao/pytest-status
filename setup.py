@@ -34,7 +34,7 @@ setup(
     packages=find_packages(include=['pytest_status']),
     setup_requires=setup_requirements,
     url='https://github.com/hanzhichao/pytest-status',
-    version='0.1.0',
+    version='0.1.1',
     zip_safe=True,
     install_requires=[
         'pytest',
